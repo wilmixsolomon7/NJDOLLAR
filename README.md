@@ -3,7 +3,7 @@ NJDollar   is the  another   Advanced  Technology  like  JDollar  which   is  in
 where   N stands   for  Advanced.And  it   belongs  to  JIT-Tech Section1.
 NJDollar is a Technology which is used for interaction with other WSIT technologies, so it is called as Native Technology. It is  one   of  the  Most  Advanced  Technology    than  JDOllar.
 
-So  it's  given  as   Grade:  RANK A  technology.
+So  it's  given  as   Grade:  RANK A'  technology.
 
 
 Syntax:
