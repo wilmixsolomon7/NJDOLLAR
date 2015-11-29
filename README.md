@@ -7,3 +7,124 @@ NJDOLLAR is  otherwise   known  as  JAS.
 
 Meaning of  JAS  is  Jesus christ  Advanced  Systems.
 
+JAS 
+---
+
+JAS   is  the   Technology   invented   in  JDollar(J$)  by  wilmix  jemin j  at  nov  2015.
+
+
+Advantages:
+----------
+
+a)  JAS   is   a   Simplest  and   OOPS   Technology   behave  like CDollar and  C.
+
+b)  JAS  support  loosely   coupling..
+
+c)  JAS   will  be   the  Next  generation technology  which solves   complex  problems  than PHP.
+
+d)  JAS   will  behave  like  C . that  is  it  also  has  C/C++  Advantages...
+
+e)  JAS  also   supports  more   numerical  digits   than  any Technology.
+
+
+f)  JAS  is  used  in  mobile  and  Web cloud  computing...
+
+
+g)  JAS  also  used  in cloud  computing  Design.
+
+h) JAS  saves   time  and  cost.
+
+i)  JAS  also  has   Good  Design  and  Templates...
+
+
+
+SYNTAX  of JAS
+--------------
+
+<JAS>
+@Remote
+
+
+ 
+
+<%
+
+
+
+public  class  Desktop
+
+{
+
+
+
+
+
+public void  JAS-Main( ) throws <EXE>
+{
+
+<!  JAS  LOGIC  !>
+}   
+
+}
+
+%>
+
+?>
+
+
+
+
+Program-1: abcde.JAS
+----------
+
+
+<JAS>
+@Remote
+
+
+ 
+
+<%
+
+
+
+
+
+public  class  abcde
+
+{
+
+
+
+
+
+public void  JAS-Main( ) throws <EXE>
+{
+
+
+
+
+<AList> <Integer>  ar  =  <NEW>  <AList> <Integer>();
+ar.add(10);
+ar.add(15);
+ar.add(15);
+ar.add(1000);
+
+
+for  (int  i=0;i<=ar.size()-1 ;i++)
+JAS.out.println(""+ar.get(i));
+JAS.out.println("");
+
+GEN  i  = <NEW> GEN ();
+  
+ JAS.out.println(""+ i.display(10));
+
+}
+
+}
+%>
+
+?>
+
+
+
