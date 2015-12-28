@@ -7,6 +7,8 @@ NJDOLLAR is  otherwise   known  as  JAS.
 
 Meaning of  JAS  is  Jesus christ  Advanced  Systems.
 
+JAS   is   Ranked  as   4th  Advanced  Technology  according  to JeminResearchlab Quality.
+
 JAS 
 ---
 
