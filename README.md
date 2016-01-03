@@ -18,13 +18,13 @@ JAS   is  the   Technology   invented   in  JDollar(J$)  by  wilmix  jemin j  at
 Advantages:
 ----------
 
-a)  JAS   is   a   Simplest  and   OOPS   Technology   behave  like CDollar and  C.
+a)  JAS   is   a   Simplest  and   OOPS   Technology   behave  like CDollar and  JDollar.
 
 b)  JAS  support  loosely   coupling..
 
 c)  JAS   will  be   the  Next  generation technology  which solves   complex  problems  than PHP.
 
-d)  JAS   will  behave  like  C . that  is  it  also  has  C/C++  Advantages...
+d)  JAS  has Advanced   oops  concepts.
 
 e)  JAS  also   supports  more   numerical  digits   than  any Technology.
 
