@@ -6,7 +6,7 @@ NJDollar   is a  Most  Advanced   Technology   and  it  is    the 4th   Technolo
 
 NJDOLLAR is  otherwise   known  as  JAS. JAS  is  focused  on  a) JSAUCER interaction  with  mybatics, b) PHYTHON 
 
-c) other  java framework.
+c) other  java framework  d) JAVA Technology
 
 Meaning of  JAS  is  Jesus christ  Advanced  Systems.
 
