@@ -1,15 +1,13 @@
 # NJDollar
 -----------
 
-NJDollar   is a  Most  Advanced   Technology   and  it  is    the 4th   Technology   of  Jesus  christ.
+NJDollar   is a  Most  Advanced   Technology.  
 
 
 NJDOLLAR is  otherwise   known  as  JAS. JAS  is  the  Another  Section  like  JDollar Section.
 
 
-Meaning of  JAS  is  Jesus christ  Advanced  Systems.
 
-JAS   is   Ranked  as   4th  Advanced  Technology  according  to JeminResearchlab Quality.
 
 JAS 
 ---
