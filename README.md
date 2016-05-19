@@ -3,6 +3,9 @@
 
 NJDollar   is a  Most  Advanced   Technology.  
 
+JAS  is  the  parent   of  JDollar  like   OAK  technology   is  parent  of   java.
+
+So    JDollar   can't    be  overtake  by   any  technology.
 
 NJDOLLAR is  otherwise   known  as  JAS. JAS  is  the  Another  Section  like  JDollar Section.
 
@@ -12,7 +15,11 @@ NJDOLLAR is  otherwise   known  as  JAS. JAS  is  the  Another  Section  like  J
 JAS 
 ---
 
-JAS   is  the   Technology   invented   in  JDollar(J$)  by  wilmix  jemin j  at  nov  2015.
+JAS   is  the   Technology   invented   by  wilmix  jemin j  at  nov  2015.
+
+Period   between   (2000   to    2013).
+
+And  it's   research   is  completed    in  year  2013.
 
 
 Advantages:
