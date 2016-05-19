@@ -15,7 +15,7 @@ NJDOLLAR is  otherwise   known  as  JAS. JAS  is  the  Another  Section  like  J
 JAS 
 ---
 
-JAS   is  the   Technology   invented   by  wilmix  jemin j  at  nov  2015.
+JAS   is  the   Technology   invented   by  wilmix  jemin j  in
 
 Period   between   (2000   to    2013).
 
