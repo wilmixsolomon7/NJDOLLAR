@@ -142,3 +142,13 @@ OUTPUT
 
  101515100010
 
+Note:  JAS  technology  is   major reason  for inventing   any  technology  basd  on  cloud computing.
+So   JAS   is  the  most   powerful  technology..  results  in  inventing  any  technology
+
+in   a  short  period  of  time  say  1 month or or  10 days  or  3  months  , etc.
+
+C/C++   is  used  for  inventing   only  datastructures...
+and  compiler  .  But   inventing   any  technology   in C/C++
+takes   many  years  to complete  like   CDollar technology which   is    born  in  C/C++.
+
+
