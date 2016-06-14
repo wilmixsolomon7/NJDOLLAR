@@ -19,9 +19,6 @@ JAS
 
 JAS   is  the   Technology   invented   by  wilmix  jemin j  in
 
-Period   between   (2000   to    2013).
-
-And  it's   research   is  completed    in  year  2013.
 
 
 Advantages:
