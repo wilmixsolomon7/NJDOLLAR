@@ -150,4 +150,4 @@ C/C++   is  used  for  inventing   only  datastructures...
 and  compiler  .  But   inventing   any  technology   in C/C++
 takes   many  years  to complete  like   CDollar technology which   is    born  in  C/C++.
 
-
+JAS  Researchproject  period:  (2000- 2007; modified  in year  2013  and  2016}
