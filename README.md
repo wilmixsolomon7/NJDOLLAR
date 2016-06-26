@@ -3,7 +3,7 @@
 
 NJDollar   is a  Most  Advanced   Technology  than  JDOLLAR technology.
 
-So  it  is   ranked   as   RANK z'''.
+So  it  is   ranked   as   Rank Z'''''''''''''''''''''''''
 
 JAS  is  the  parent   of  JDollar  like   OAK  technology   is  parent  of   java.
 
