@@ -17,7 +17,7 @@ NJDOLLAR is  otherwise   known  as  JAS. JAS  is  the  Another  Section  like  J
 JAS 
 ---
 
-JAS   is  the   Technology   invented   by  wilmix  jemin j  in c/c++.
+JAS   is  the   Technology   invented   by  wilmix  jemin j.
 
 
 
