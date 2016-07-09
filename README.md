@@ -22,7 +22,7 @@ JAS   is  the   Technology   invented   by  wilmix  jemin j.
 Advantages:
 ----------
 
-a)  JAS   is   a   Simplest  and   OOPS   Technology   behave  like CDollar and  JDollar.
+a)  JAS   is   a   Simplest  and   OOPS   Technology   behave  like CDollar and CHDOLLAR.
 
 b)  JAS  support  loosely   coupling..
 
