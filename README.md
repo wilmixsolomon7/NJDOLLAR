@@ -1,15 +1,13 @@
 # NJDollar
 -----------
 
-NJDollar   is a  Most  Advanced   Technology  than  JDOLLAR technology.
+NJDollar   is a  Most  Advanced   Technology  than  JAS technology.
 
 So  it  is   ranked   as   Rank Z'''''''''''''''''''''''''
 
-JAS  is  the  parent   of  JDollar  like   OAK  technology   is  parent  of   java.
+JAS  is  like   OAK  technology   is  parent  of   java.
 
-So    JDollar   can't    be  overtake  by   any  technology.
-
-NJDOLLAR is  otherwise   known  as  JAS. JAS  is  the  Another  Section  like  JDollar Section.
+NJDOLLAR is  otherwise   known  as  JAS. 
 
 
 
