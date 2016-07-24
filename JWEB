@@ -1,0 +1,511 @@
+JWEB
+=======
+
+JAS  cloud  web  is  otherwise  known  as   JWEB  is  invented  by  wilmix jemin  j in JAS.
+
+here   we  had  to  write   C oops and   JAVA like  oops logic.
+
+So  that  Java or  oops  professionals  can  easily  catch up  ...
+
+
+
+SYNTAX:  Simillar  to  JAVA logic
+========
+
+
+
+
+<JWEB>
+
+<JPACK>
+
+<JLOGIC>
+
+public  class  Programname
+
+{
+          public  static  void main(String args[]) throws Exception
+
+{
+
+<!  oops  Logic  !>
+
+		
+}
+
+}
+</JLOGIC>
+
+</JWEB>
+
+
+
+SYNTAX for  JWEB program:
+========================
+
+
+
+<?JWEB> //starting  of  JWEB  program
+
+<INVOKE> <JWEB>.util;//  load  jweb util  packages.
+<INVOKE> CDollar.WDBA;//load  CDollar.wdba  packages to  connect  with  wnosql  database
+
+<PACK> namespacename // create  namespace  name Myp
+{
+    <CLASS> Programs
+    {
+          public void main()  //jweb  main  function  which  JAVA-JWEB logic  dll  will  be  used  in  JWEB  program.
+
+        {
+		
+//Write  only  oops  logic  and  it  generates  prototype  .exe ...
+
+to be  used  with  JWEb-cloud.
+}
+
+
+
+
+
+Example:
+=======
+
+<JWEB>
+
+<JPACK>
+
+<JLOGIC>
+
+public  class  Jquerytest
+
+{
+          public  static  void main(String args[]) throws Exception
+
+{
+
+//Jquerytest  enter  Jquery   code  in html  file
+HTML.displayhtml("draw.html");//display the   jquery  html  file contents
+
+HTML.displayhtml("jquery1.html");
+
+HTML.displayhtml("jquery2.html");
+HTML.displayhtml("html1.html");
+HTML.displayhtml("index1.html");
+
+
+
+
+		
+}
+
+}
+</JLOGIC>
+
+</JWEB>
+
+
+
+
+Example -2: USE  CDollar  Datastructures  with  Arraylist  and  Cdollar  dts  Bucket
+
+============
+
+
+
+<JWEB>
+
+<JPACK>
+
+<JLOGIC>
+
+
+public class index {
+
+  public static  void main(String  args[] ) {
+   
+
+HTML.displayhtml("wilson.html");
+
+
+
+
+
+		ArrayList  ar= new  ArrayList();
+		
+		ArrayList  ar2= new  ArrayList();
+		for  (int  i=0;i<=1000;i++)
+		
+		ar.add(i);
+		
+		System.out.println(""+ar);
+		System.out.println("<Body  bgcolor=violet>");
+
+
+
+		Bucket list2 = new Bucket("BUCKETS");
+		
+		
+		
+		
+		      list2.KeyAdd("1101");  
+                    
+                     list2.add("jemin");
+                     
+                     list2.RandomAdd();    
+                     
+                     list2.Display(list2);
+
+                 
+System.out.println(""+list2.DisplayO(list2,1));
+
+
+
+
+
+
+  }
+}
+
+
+
+EXAMPLE -3: Solving  Complex  numbers  problem
+===========
+
+
+
+<JWEB>
+
+<JPACK>
+
+<JLOGIC>
+
+
+public class ComplexDemo {
+
+  public static  void main(String  args[] ) {
+    Complex c = new Complex(3,  5);
+    Complex d = new Complex(2, -2);
+System.out.println(c);
+System.out.println(c + ".getReal() = " + c.getReal());
+System.out.println(c + " + " + d + " = " + c.add(d));
+System.out.println(c + " + " + d + " = " + Complex.add(c, d));
+System.out.println(c + " * " + d + " = " + c.multiply(d));
+System.out.println(Complex.divide(c, d));
+  }
+}
+
+
+class Complex {
+
+  private double r;
+
+  private double i;
+
+
+  Complex(double rr, double ii) {
+    r = rr;
+    i = ii;
+  }
+
+
+  public String StringConvert() {
+    StringBuffer sb = new StringBuffer().append(r);
+    if (i>0)
+      sb.append('+'); // else append(i) appends - sign
+    return sb.append(i).append('i').toString();
+  }
+
+  
+  public double getReal() {
+    return r;
+  }
+ 
+  public double getImaginary() {
+    return i;
+  }
+
+  public double magnitude() {
+    return Math.sqrt(r*r + i*i);
+  }
+
+
+  public Complex add(Complex other) {
+    return add(this, other);
+  }
+
+  public static Complex add(Complex c1, Complex c2) {
+    return new Complex(c1.r+c2.r, c1.i+c2.i);
+  }
+
+
+  public Complex subtract(Complex other) {
+    return subtract(this, other);
+  }
+
+
+  public static Complex subtract(Complex c1, Complex c2) {
+    return new Complex(c1.r-c2.r, c1.i-c2.i);
+  }
+
+
+  public Complex multiply(Complex other) {
+    return multiply(this, other);
+  }
+
+  public static Complex multiply(Complex c1, Complex c2) {
+    return new Complex(c1.r*c2.r - c1.i*c2.i, c1.r*c2.i + c1.i*c2.r);
+  }
+
+
+  public static Complex divide(Complex c1, Complex c2) {
+    return new Complex(
+      (c1.r*c2.r+c1.i*c2.i)/(c2.r*c2.r+c2.i*c2.i),
+      (c1.i*c2.r-c1.r*c2.i)/(c2.r*c2.r+c2.i*c2.i));
+  }
+  
+
+  public boolean equals(Object o) {
+    if (!(o instanceof Complex))
+      throw new IllegalArgumentException(
+          "Complex.equals argument must be a Complex");
+    Complex other = (Complex)o;
+    return r == other.r && i == other.i;
+  }
+  
+
+  public int hashCode() {
+    return (int)( r) |  (int)i;
+  }
+}
+
+</JLOGIC>
+
+</JWEB>
+
+
+EXAMPLE-4:  JWEB  with  WNOSQL  Database
+
+==========
+
+
+
+<?JWEB> //starting  of  JWEB  program
+
+<INVOKE> <JWEB>.util;//  load  jweb util  packages.
+<INVOKE> CDollar.WDBA;//load  CDollar.wdba  packages to  connect  with  wnosql  database
+
+<PACK> MyP // create  namespace  name Myp
+{
+    <CLASS> Programs
+    {
+          public void main()  //jweb  main  function  which  JAVA-JWEB logic  dll  will  be  used  in  JWEB  program.
+
+        {
+		
+
+<PRINTLN>("<BODY bgcolor=pink>");
+
+
+String  t= WDBASQL.WDBASQLS("dbuser.pwd","dbpwds.pwd",1,"wilmix78", "wilmix78",1,5);
+
+char  c=' ';
+
+ArrayList arhd111 =WDBASQL.Query("SelectIN","employess" ,"0",null,11,"0002","",null,"",0,"","",c,null,t,1,1);
+
+
+<PRINTLN>(""+arhd111);
+
+c='D';
+ArrayList a1=WDBASQL.Query("SelectLike","Orders" ,"0",null,11,"","",null,"",0,"","",c,null,t,1,1);
+
+<PRINTLN>(""+a1);
+
+WDBASQL.Query("Count(*)","Orders" ,"0",null,0,"","",null,"",0,"","",c,null,t,1,1);
+
+
+WDBASQL.Query("Encrypt","nos" ,"0",null,0,"0","",null,"",0,"","",c,null,t,1,1);
+
+
+WDBASQL.Query("Decrypt","nos" ,"0",null,0,"0","",null,"",0,"","",c,null,t,1,1);
+
+ArrayList a2=WDBASQL.Query("SelectAll","nos" ,"0",null,4,"0","",null,"",0,"","",c,null,t,1,1);
+
+
+
+
+
+ArrayList  myList= new ArrayList();
+
+myList.add("2005/01/12");
+
+myList.add("2012/03/12");
+myList.add("2006/03/12");
+myList.add("2006/01/12");
+myList.add("2005/11/12");
+
+ArrayList  arms1d  = new  ArrayList();
+
+arms1d.add(3);
+arms1d.add(6);
+arms1d.add(9);
+arms1d.add(12);
+arms1d.add(15);
+arms1d.add(18);
+
+
+
+ArrayList  sum55=WDBASQL.Query("AVG()","Orders" ,"0",null,6,"","",arms1d,"",0,"","",c,null,t,1,1);
+
+<PRINTLN>(""+sum55);
+
+ArrayList  sum55r=WDBASQL.Query("MAX()","Orders" ,"0",null,19,"","",arms1d,"",0,"","",c,null,t,1,1);
+
+<PRINTLN>(""+sum55r);
+ArrayList  sum55gr=WDBASQL.Query("MIN()","Orders" ,"0",null,19,"","",arms1d,"",0,"","",c,null,t,1,1);
+<PRINTLN>(""+sum55gr);
+
+ArrayList arhd1g1 =WDBASQL.Query("LOC()","Orders" ,"0",null,19,"0002","",null,"",0,"","",c,null,t,1,1);
+<PRINTLN>(""+arhd1g1);
+
+ArrayList  sum557=WDBASQL.Query("SUM()","Orders" ,"0",null,0,"","",arms1d,"",0,"","",c,null,t,1,1);
+<PRINTLN>(""+sum557);
+
+
+ArrayList  arts1= new  ArrayList();
+arts1.add(3);
+arts1.add(4);
+arts1.add(5);
+arts1.add(6);
+arts1.add(7);
+arts1.add(8);
+
+ArrayList arh =WDBASQL.Query("SelectCols","Orders" ,"0",null,12-3,"5","",arts1,"",0,"","",c,null,t,1,1);
+
+<PRINTLN>(""+arh);
+ArrayList arhd =WDBASQL.Query("Count()","Orders" ,"0",null,13,"u","",null,"",0,"","",c,null,t,1,1);
+
+<PRINTLN>(""+arhd);
+
+
+ArrayList  art= new  ArrayList();
+
+
+
+
+art.add(0);
+art.add(1);
+art.add(2);
+art.add(3);
+art.add(4);
+art.add(5);
+art.add(6);
+art.add(7);
+art.add(8);
+art.add(9);
+art.add(10);
+art.add(11);
+WDBASQL.Query("DISTINCT","abc1","0",null,11,"","", art,"",0,"11","",c,null,t,1,1);
+
+
+ArrayList arhd1gy =WDBASQL.Query("MATCH","Orders" ,"0",null,19,"0001","",null,"",0,"1","",c,null,t,1,1);
+
+
+
+ArrayList  ardds= new ArrayList();
+
+for (int i=0;i<4;i++)
+ardds.add(i);
+
+WDBASQL.Query("Insert","emp6" ,"",myList,0,"","", null,"",0," ","",c,null,t,1,1);
+
+ArrayList  sum55grh=WDBASQL.Query("DateCompareDESC","emp6" ,"0",null,10,"","",ardds,"",0,"","",c,null,t,1,1);
+
+<PRINTLN>(""+sum55grh);
+
+ArrayList  sum55grhr=WDBASQL.Query("DateCompareASC","emp6" ,"0",null,10,"","",ardds,"",0,"","",c,null,t,1,1);
+
+<PRINTLN>(""+sum55grhr);
+ArrayList st  = new  ArrayList();
+
+st.add(1);
+st.add("wilmix");
+
+
+st.add("100");
+
+st.add(2);
+st.add("jem");
+
+st.add("200");
+st.add(4);
+st.add("Peter");
+
+st.add("200");
+
+//st.add(3);
+//st.add("Diana");
+
+//st.add("100");
+st.add(1);
+st.add("");
+
+
+st.add("500");
+
+
+WDBASQL.Query("InsertDESC", "emp", "0", st, 0, "", "", null, "", 0, "", "", c, null, t, 0, 1);
+ArrayList st111  = new  ArrayList();
+
+st111.add(1);
+st111.add("wilmix");
+
+
+st111.add("100");
+
+st111.add(2);
+st111.add("jem");
+
+st111.add("200");
+st111.add(4);
+st111.add("Peter");
+
+st111.add("200");
+
+//st111.add(3);
+//st111.add("Diana");
+
+//st111.add("100");
+st111.add(1);
+st111.add("");
+
+
+st111.add("500");
+
+
+
+ArrayList   tsf1p11= WDBASQL.Query("AND", "", "0", null, 11, "", "", sum55grh, "", 0, "", "", c,sum55grhr, t, 1, 4);
+
+
+<PRINTLN>(""+tsf1p11);
+
+
+ArrayList   tsf1p1= WDBASQL.Query("ForeignKey", "Orders", "0", null, 17, "employess", "", null, "", 0, "", "", c, null, t, 1, 1);
+
+<PRINTLN>(""+tsf1p1);
+
+
+
+}
+
+
+
+Note:
+=====
+
+visit  out   JWEB  website  in  google  site  for  more  details  about  JWEB- JAS.
+
+JWEB  is  used  only  with  wallet  not used  in mobiles...
+
+
+
+	
