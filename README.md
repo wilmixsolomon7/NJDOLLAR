@@ -17,6 +17,9 @@ JAS
 
 JAS   is  the   Technology   invented   by  wilmix  jemin j.
 
+JAS   is    otherwise known as  JESUSCHRIST-ADVANCED-SYSTEM.
+
+JAS  is a wisdom of christ.
 
 
 Advantages:
