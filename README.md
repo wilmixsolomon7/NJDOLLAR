@@ -152,3 +152,13 @@ and  compiler  .  But   inventing   any  technology   in C/C++
 takes   many  years  to complete  like   CDollar technology which   is    born  in  C/C++.
 
 JAS  Researchproject  period:  (2000- 2007; modified  in year  2013  and  2016}
+
+
+
+Note:
+======
+
+It consists of 1000 modules related to Advanced Business which will be listed later.
+
+JAS consists of 1 billion jsword AdvancedBusiness ; so JAS
+is the most powerful technology in the world and it is greater than any technology.
