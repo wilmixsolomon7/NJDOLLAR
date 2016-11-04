@@ -1,11 +1,15 @@
 # NJDollar
 -----------
 
-NJDollar   is a  Most  Advanced   Technology  than  JAS technology.
+NJDollar (meaning - Like  JDollar)  is also  called  as 
+
+JAS  Programming Language   when  it  is   invented  in JAVA and  modified  at JDollar  @  year  2015.
+
+and  modifed   at  C#  P.L  at  year  2016.
 
 So  it  is   ranked   as   Rank Z'''''''''''''''''''''''''
 
-JAS  is  like   OAK  technology   is  parent  of   java.
+JAS  is  like   OAK  Programming Language   is  parent  of   java.
 
 NJDOLLAR is  otherwise   known  as  JAS. 
 
@@ -15,25 +19,26 @@ NJDOLLAR is  otherwise   known  as  JAS.
 JAS 
 ---
 
-JAS   is  the   Technology   invented   by  wilmix  jemin j.
+JAS   is  the   Programming Language   invented   by  wilmix  jemin j.
 
 JAS   is    otherwise known as  JESUSCHRIST-ADVANCED-SYSTEM.
 
 JAS  is a wisdom of christ.
 
 
+
 Advantages:
 ----------
 
-a)  JAS   is   a   Simplest  and   OOPS   Technology   behave  like CDollar and CHDOLLAR.
+a)  JAS   is   a   Simplest  and   OOPS   Programming Language    behave  like CDollar and CHDOLLAR.
 
 b)  JAS  support  loosely   coupling..
 
-c)  JAS   will  be   the  Next  generation technology  which solves   complex  problems  than PHP.
+c)  JAS   will  be   the  Next  generation Programming Language  which solves   complex  problems  than PHP.
 
 d)  JAS  has Advanced   oops  concepts.
 
-e)  JAS  also   supports  more   numerical  digits   than  any Technology.
+e)  JAS  also   supports  more   numerical  digits   than  any Programming Language .
 
 
 f)  JAS  is  used  in  mobile  and  Web cloud  computing...
@@ -142,14 +147,17 @@ OUTPUT
 
  101515100010
 
-Note:  JAS  technology  is   major reason  for inventing   any  technology  basd  on  cloud computing.
-So   JAS   is  the  most   powerful  technology..  results  in  inventing  any  technology
+Note:  JAS  technology  is   major reason  for inventing   any Programming Language to  be  deployed  in  cloud computing
+
+with remotewebapplication.
+
+So   JAS   is  the  most   powerful  Programming Language..  results  in  inventing  any  P.L
 
 in   a  short  period  of  time  say  1 month or or  10 days  or  3  months  , etc.
 
 C/C++   is  used  for  inventing   only  datastructures...
 and  compiler  .  But   inventing   any  technology   in C/C++
-takes   many  years  to complete  like   CDollar technology which   is    born  in  C/C++.
+takes   many  years  to complete  like   CDollar P.L which   is    born  in  C/C++.
 
 JAS  Researchproject  period:  (2000- 2007; modified  in year  2013  and  2016}
 
@@ -161,4 +169,4 @@ Note:
 It consists of 1000 modules related to Advanced Business which will be listed later.
 
 JAS consists of 1 billion jsword AdvancedBusiness ; so JAS
-is the most powerful technology in the world and it is greater than any technology.
+is the most powerful Programming Language in the world and it is greater than any P.L.
