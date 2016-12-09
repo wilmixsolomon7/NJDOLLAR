@@ -29,7 +29,7 @@ JAS  is a wisdom of christ.
 Advantages:
 ----------
 
-a)  JAS   is   a   Simplest  and   OOPS   Programming Language    behave  like CDollar and CHDOLLAR.
+a)  JAS   is   a   Simplest  and   OOPS   Programming Language    behave  like WEB and CHDOLLAR.
 
 b)  JAS  support  loosely   coupling..
 
