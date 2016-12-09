@@ -1,9 +1,8 @@
-# NJDollar
+# JAS
 -----------
 
-NJDollar (meaning - Like  JDollar)  is also  called  as 
 
-JAS  Programming Language   when  it  is   invented  in JAVA and  modified  at JDollar  @  year  2015.
+JAS  Programming Language   when  it  is   invented  in JAVA  
 
 and  modifed   at  C#  P.L  at  year  2016.
 
@@ -11,7 +10,7 @@ So  it  is   ranked   as   Rank Z'''''''''''''''''''''''''
 
 JAS  is  like   OAK  Programming Language   is  parent  of   java.
 
-NJDOLLAR is  otherwise   known  as  JAS. 
+
 
 
 
@@ -156,8 +155,7 @@ So   JAS   is  the  most   powerful  Programming Language..  results  in  invent
 in   a  short  period  of  time  say  1 month or or  10 days  or  3  months  , etc.
 
 C/C++   is  used  for  inventing   only  datastructures...
-and  compiler  .  But   inventing   any  technology   in C/C++
-takes   many  years  to complete  like   CDollar P.L which   is    born  in  C/C++.
+and  compiler 
 
 JAS  Researchproject  period:  (2000- 2007; modified  in year  2013  and  2016}
 
