@@ -2,9 +2,7 @@
 -----------
 
 
-JAS  Programming Language   when  it  is   invented  in JAVA  
-
-and  modifed   at  C#  P.L  at  year  2016.
+JAS  Programming Language   invented  in  C#  P.L  at  year  2016.
 
 So  it  is   ranked   as   Rank Z'''''''''''''''''''''''''
 
