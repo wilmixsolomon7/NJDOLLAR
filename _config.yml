@@ -1,0 +1,8 @@
+title: JAS
+description: "JAS   is a  Most  Advanced   Programming Language  invented  by  wilmixjemin j. "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
