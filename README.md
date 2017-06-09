@@ -8,8 +8,7 @@ So  it  is   ranked   as   Rank Z'''''''''''''''''''''''''
 
 NJDOLLAR  is  like   OAK  Programming Language   which  is    parent  of   java.
 
-
-
+NJDOLLAR  is the   most  Advanced  Technology  and  with  AdvancedBusiness   than  DOTWEB.
 
 
 
